@@ -1,0 +1,26 @@
+# Visual Studio user and workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Framework build output
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+
+# NuGet restores packages.config dependencies from source metadata
+**/packages/
+*.nupkg
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
